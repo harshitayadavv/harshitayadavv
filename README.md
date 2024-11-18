@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Harshita Yadav
 
 👩‍💻 **About Me**  
-- 💡 Student at **IIIT Kota**  
-- 🌟 "Technology is best when it brings people together."  
+- 💡 Student at **IIIT Kota**
+- 🌟 Aspiring tech enthusiast
 
 🚀 **What I Do**  
 - 🖋️ Competitive Programmer  
@@ -15,5 +15,3 @@
 🔗 **Let's Connect**  
 - [Linkedin](#https://www.linkedin.com/in/harshita-yadav-6b287b296/) | [Codechef](#https://www.codechef.com/users/harshitaydv) | [codeforces](#https://codeforces.com/profile/harshitayadavv211) | [LeetCode](#https://leetcode.com/u/hersheyyys/)
 
-📊 **GitHub Stats**  
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitayadavv&show_icons=true&theme=radical)
