@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Harshita Yadav
 
-<!--
-**harshitayadavv/harshitayadavv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **About Me**  
+- 💡 Student at **IIIT Kota**  
+- 🌟 "Technology is best when it brings people together."  
 
-Here are some ideas to get you started:
+🚀 **What I Do**  
+- 🖋️ Competitive Programmer  
+- 🌐 Frontend Web Developer - **HTML, CSS, and JS**  
+- 📊 Data Visualization, Data Analysis, Data Cleaning, and Data Manipulation using **NumPy, Pandas, Matplotlib, and Seaborn**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Exploring**  
+- **AI and ML**  
+
+🔗 **Let's Connect**  
+- [Linkedin](#https://www.linkedin.com/in/harshita-yadav-6b287b296/) | [Codechef](#https://www.codechef.com/users/harshitaydv) | [codeforces](#https://codeforces.com/profile/harshitayadavv211) | [LeetCode](#https://leetcode.com/u/hersheyyys/)
+
+📊 **GitHub Stats**  
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitayadavv&show_icons=true&theme=radical)
