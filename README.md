@@ -13,5 +13,10 @@
 - **AI and ML**  
 
 🔗 **Let's Connect**  
-- [Linkedin](#https://www.linkedin.com/in/harshita-yadav-6b287b296/) | [Codechef](#https://www.codechef.com/users/harshitaydv) | [codeforces](#https://codeforces.com/profile/harshitayadavv211) | [LeetCode](#https://leetcode.com/u/hersheyyys/)
+- [LinkedIn](https://www.linkedin.com/in/harshita-yadav-6b287b296/)
+- [LeetCode](https://leetcode.com/hersheyys/)
+- [CodeChef](https://www.codechef.com/users/harshitaydv)  
+- [Codeforces](https://codeforces.com/profile/harshitayadavv211)  
+
+  
 
