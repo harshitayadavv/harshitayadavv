@@ -6,8 +6,8 @@
 
 🚀 **What I Do**  
 - 🖋️ Competitive Programmer  
-- 🌐 Frontend Web Developer - **Html, CSS, JavaScript**  
-- 📊 Data Visualization, Data Analysis, Data Cleaning, and Data Manipulation using **NumPy, Pandas, Matplotlib, and Seaborn**  
+- 🌐 Frontend Web Developer - **Html, CSS, JavaScript, React, React Native, Tailwind CSS**  
+- 📊 Data Visualization, Data Analysis, Data Cleaning, Data Manipulation using **NumPy, Pandas, Matplotlib, and Seaborn**  
 
 🌱 **Currently Exploring**  
 - **AI and ML**  
