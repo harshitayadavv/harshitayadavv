@@ -6,7 +6,7 @@
 
 🚀 **What I Do**  
 - 🖋️ Competitive Programmer  
-- 🌐 Full-Stack Developer – **HTML, CSS, JS, React, React Native, Tailwind, Flask, MongoDB, Next.js, Express.js**  
+- 🌐 Full-Stack Developer – **HTML, CSS, JS, React, React Native, Tailwind, Flask,FastAPI, MongoDB, Next.js, Express.js**  
 - 📊 Data Science – **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch**  
 
 🔗 **Connect with Me**  
