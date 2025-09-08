@@ -1,72 +1,92 @@
 # 🌟 Hello World! I'm Harshita Yadav 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Competitive+Programmer;Data+Science+Explorer;IIIT+Kota+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Competitive+Programmer;IIIT+Kota+Student;Tech+Innovator" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshitayadav&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/harshitayadav?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=harshitayadavv&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/harshitayadavv?label=Followers&style=flat-square&color=6C63FF" alt="Followers" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="right">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Coding Animation">
+</div>
 
 ```python
 class HarshitaYadav:
     def __init__(self):
         self.name = "Harshita Yadav"
-        self.location = "IIIT Kota, India"
-        self.current_focus = ["AI/ML", "Competitive Programming", "Full-Stack Development"]
-        self.passion = "Turning ideas into code and code into impact"
-        self.learning = ["Deep Learning", "System Design", "Cloud Computing"]
+        self.education = "B.Tech Student at IIIT Kota (2023-2027)"
+        self.location = "Kota, Rajasthan"
+        self.passion = ["AI & Machine Learning", "Full-Stack Development", "Competitive Programming"]
+        self.current_status = "Building innovative tech solutions"
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+    def get_expertise(self):
+        return {
+            "programming": ["C++", "Python", "JavaScript", "C", "Java"],
+            "core_cs": ["DSA", "OOP", "DBMS", "OS", "Computer Networks"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "BERT"],
+            "web_dev": ["React JS", "FastAPI", "Flask", "Tailwind CSS", "Redux"]
+        }
 
 me = HarshitaYadav()
-me.say_hi()
+print(f"Welcome to {me.name}'s GitHub! 🚀")
 ```
 
-🎯 **Currently:** Building AI-powered solutions and mastering competitive programming<br/>
-🌱 **Learning:** Advanced ML algorithms, distributed systems, and cloud architecture<br/>
-💬 **Ask me about:** Python, JavaScript, Data Science, or anything tech!<br/>
-⚡ **Fun fact:** I debug code faster than I debug my life decisions 😄
+🎯 **Currently:** B.Tech Student at IIIT Kota (2023-2027)<br/>
+🌱 **Focus Areas:** AI/ML, Web Development, and Competitive Programming<br/>
+💡 **Passion:** Creating intelligent solutions that make a difference<br/>
+⚡ **Fun fact:** I turn coffee into code and algorithms into applications!
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,html,css,react,nextjs,nodejs,express,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,c,java" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🌐 Web & App Development
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=react,fastapi,flask,tailwind,redux" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🤖 Machine Learning & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,tailwind" />
-</p>
-
-### 📊 Data Science & AI
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 📚 Core Computer Science
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6B6B?style=for-the-badge&logo=algorithms&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-61DAFB?style=for-the-badge&logo=object&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating_Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
 </div>
@@ -76,62 +96,51 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitayadav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitayadav&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitayadavv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitayadavv&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitayadav&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitayadavv&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitayadav&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitayadavv&theme=redical&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 Competitive Programming Stats
+## 🏆 Competitive Programming Journey
 
 <div align="center">
   
-| Platform | Rating/Rank | Problems Solved |
-|----------|-------------|-----------------|
-| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | Expert Level | 500+ |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | 3⭐ | 200+ |
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white) | Pupil | 150+ |
+| Platform | Progress | Focus Areas |
+|----------|----------|-------------|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) | Problem Solver | DSA & Algorithms |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white) | Competitive Coder | Logic & Optimization |
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white) | Contest Participant | Problem Solving |
 
 </div>
 
 ---
 
-## 🎯 2024 Goals & Achievements
+## 🌟 What Drives Me
 
 <div align="center">
 
-```mermaid
-graph TD
-    A[🎯 2024 Goals] --> B[Master System Design]
-    A --> C[Build AI Products]
-    A --> D[Open Source Contributions]
-    A --> E[Land Dream Internship]
-    
-    B --> F[✅ Completed]
-    C --> G[🔄 In Progress]
-    D --> H[🔄 In Progress]
-    E --> I[🎯 Target: Summer 2024]
-```
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Animation">
+
+**"Passionate about creating intelligent solutions that bridge the gap between human needs and technological possibilities"**
+
+🎯 **My Mission:** To leverage AI and full-stack development skills to build impactful applications<br/>
+🌱 **Currently Learning:** Advanced ML algorithms, system design, and cutting-edge AI techniques<br/>
+🤝 **Open to:** Internship opportunities, collaborative projects, and tech discussions
 
 </div>
 
-📈 **This Year's Highlights:**
-- 🏅 Solved 500+ coding problems across platforms
-- 🚀 Built 15+ full-stack projects
-- 📚 Completed 5 ML/AI courses
-- 🤝 Contributed to 10+ open source projects
-
 ---
 
-## 🌐 Let's Connect & Collaborate!
+## 🌐 Let's Connect!
 
 <div align="center">
 
@@ -139,7 +148,6 @@ graph TD
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hersheyys/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshitaydv)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshitayadavv211)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshita@example.com)
 
 </div>
 
@@ -147,21 +155,8 @@ graph TD
 
 <div align="center">
   
-### 💭 Favorite Quote
-*"The best way to predict the future is to invent it."* - Alan Kay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=20&fontColor=fff" width="100%"/>
 
-### 🎵 Coding Soundtrack
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify_username&count=1" alt="Spotify" />
-
-### ☕ Support My Work
-<a href="https://www.buymeacoffee.com/harshitayadav">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-
-**"Code is poetry written in logic"** ✨
+**"Code is the closest thing we have to a superpower"** ✨
 
 </div>
