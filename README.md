@@ -128,7 +128,7 @@ print(f"Welcome to {me.name}'s GitHub! 🚀")
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Tech Animation">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400" alt="Tech Girl Animation">
 
 **"Passionate about creating intelligent solutions that bridge the gap between human needs and technological possibilities"**
 
