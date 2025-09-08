@@ -13,35 +13,21 @@
 
 ## 🚀 About Me
 
-<div align="right">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400" alt="Coding Animation">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800" alt="Girl Coding Animation">
 </div>
 
-```python
-class HarshitaYadav:
-    def __init__(self):
-        self.name = "Harshita Yadav"
-        self.education = "B.Tech Student at IIIT Kota (2023-2027)"
-        self.location = "Kota, Rajasthan"
-        self.passion = ["AI & Machine Learning", "Full-Stack Development", "Competitive Programming"]
-        self.current_status = "Building innovative tech solutions"
-    
-    def get_expertise(self):
-        return {
-            "programming": ["C++", "Python", "JavaScript", "C", "Java"],
-            "core_cs": ["DSA", "OOP", "DBMS", "OS", "Computer Networks"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "BERT"],
-            "web_dev": ["React JS", "FastAPI", "Flask", "Tailwind CSS", "Redux"]
-        }
+<div align="center">
 
-me = HarshitaYadav()
-print(f"Welcome to {me.name}'s GitHub! 🚀")
-```
+### 👩‍💻 B.Tech Student at IIIT Kota (2023-2027) | Kota, Rajasthan
 
-🎯 **Currently:** B.Tech Student at IIIT Kota (2023-2027)<br/>
-🌱 **Focus Areas:** AI/ML, Web Development, and Competitive Programming<br/>
-💡 **Passion:** Creating intelligent solutions that make a difference<br/>
-⚡ **Fun fact:** I turn coffee into code and algorithms into applications!
+</div>
+
+🎯 **Passionate About:** Building intelligent AI solutions and robust full-stack applications<br/>
+🌱 **Currently Mastering:** Advanced Machine Learning, System Design, and Competitive Programming<br/>
+💡 **Mission:** Creating technology that bridges innovation with real-world impact<br/>
+🔍 **Interests:** Natural Language Processing, Web Development, and Algorithmic Problem Solving<br/>
+⚡ **Fun Fact:** I debug with determination and code with creativity!
 
 ---
 
@@ -69,6 +55,9 @@ print(f"Welcome to {me.name}'s GitHub! 🚀")
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERT-FF6B35?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -77,6 +66,7 @@ print(f"Welcome to {me.name}'s GitHub! 🚀")
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-306998?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 📚 Core Computer Science
@@ -101,7 +91,7 @@ print(f"Welcome to {me.name}'s GitHub! 🚀")
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitayadavv&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitayadavv&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
