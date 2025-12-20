@@ -94,13 +94,13 @@ motto: "Code. Compete. Conquer. 🚀"
 
 ## 🏆 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-hersheyys-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hersheyys/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hersheyyys-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hersheyyys/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-harshitaydv-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshitaydv)
 [![Codeforces](https://img.shields.io/badge/Codeforces-harshitayadavv211-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshitayadavv211)
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hersheyys?theme=dark&font=Noto%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hersheyyys?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 <br>
 
@@ -110,40 +110,11 @@ motto: "Code. Compete. Conquer. 🚀"
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitayadavv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitayadavv&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
 <br>
 
 ## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitayadavv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)
-
-<br>
-
-## 🎯 Current Focus
-
-```python
-class Harshita:
-    def __init__(self):
-        self.current_focus = [
-            "Mastering Advanced DSA 🧠",
-            "Building AI/ML Projects 🤖",
-            "Contributing to Open Source 🌟",
-            "Competitive Programming 🏆"
-        ]
-        self.goals_2025 = [
-            "Reach Expert on Codeforces",
-            "Complete 500+ LeetCode problems",
-            "Build 5 ML projects",
-            "Contribute to major open-source projects"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's connect and build something amazing together! 🚀")
-
-me = Harshita()
-me.say_hi()
-```
 
 <br>
 
