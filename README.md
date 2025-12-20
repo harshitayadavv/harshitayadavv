@@ -31,7 +31,7 @@ motto: "Code. Compete. Conquer. 🚀"
 - 🏆 **Competitive Programming** is my passion
 - 🎓 Learning and growing at **IIIT Kota**
 - 🤝 Open to collaborating on **AI/ML projects**
-- 💬 Ask me about **DSA, Web Dev, or ML**
+- 💬 Ask me about **Web Dev, DSA, ML, Gen AI, OpenCV**
 - ⚡ Fun fact: **I debug with coffee ☕**
 
 ## 🛠️ Tech Arsenal
@@ -95,8 +95,8 @@ motto: "Code. Compete. Conquer. 🚀"
 ## 🏆 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-hersheyyys-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/hersheyyys/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-harshitaydv-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshitaydv)
-[![Codeforces](https://img.shields.io/badge/Codeforces-harshitayadavv211-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshitayadavv211)
+[![CodeChef](https://img.shields.io/badge/CodeChef-harshitaydv21-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshitaydv21)
+[![Codeforces](https://img.shields.io/badge/Codeforces-hersheyyys-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hersheyyys)
 
 <br>
 
