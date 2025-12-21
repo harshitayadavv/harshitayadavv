@@ -20,9 +20,9 @@
 ```yaml
 name: Harshita Yadav
 location: IIIT Kota, India
-education: Computer Science Student
+education: Pre final year BTech Student
 interests: [Competitive Programming, AI/ML, Full-Stack Development]
-currently_learning: Advanced Algorithms & Deep Learning
+currently_learning: Agentic AI
 motto: "Code. Compete. Conquer. 🚀"
 ```
 
