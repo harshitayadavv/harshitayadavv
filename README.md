@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Competitive+Programmer+%F0%9F%8F%86;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6CE5E8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Competitive+Programmer+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%B1;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
@@ -12,12 +12,13 @@
 name: Harshita Yadav
 location: IIIT Kota, India
 education: Final year BTech
-interests: [Competitive Programming, AI/ML, Full-Stack Development]
+interests: [Competitive Programming, Open Source, AI/ML, Full-Stack Development]
 currently_learning: Agentic AI
 ```
 
+- 🌱 Started contributing to **open source** recently
 - 💬 Ask me about **Web Dev, DSA, ML, Gen AI, OpenCV**
-- 🤝 Open to collaborating on **AI/ML projects**
+- 🤝 Open to collaborating on **AI/ML & open source projects**
 
 ## 🛠️ Tech Stack
 
@@ -39,11 +40,22 @@ currently_learning: Agentic AI
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitayadavv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&height=200" width="49%"/>
 </div>
 
+## 🌱 Open Source Contributions
+
+- 🔀 **[celery/celery](https://github.com/celery/celery)** — PR merged: _add your PR title here_ → [#PR-number](https://github.com/celery/celery/pull/REPLACE_WITH_PR_NUMBER)
+
+<!-- Add each new contribution as a line above, in this format:
+- 🔀 **[org/repo](repo-link)** — PR merged: _short description_ → [#PR-number](pr-link)
+-->
+
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitayadav504/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitayadav211@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://harshitayadav-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/hersheyyys/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshitaydv21)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hersheyyys)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
