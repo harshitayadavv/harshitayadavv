@@ -40,9 +40,7 @@ currently_learning: Agentic AI
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitayadavv&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&height=200" width="49%"/>
 </div>
 
-## 🌱 Open Source Contributions
 
-- 🔀 **[celery/celery](https://github.com/celery/celery)** — PR merged: _add your PR title here_ → [#PR-number](https://github.com/celery/celery/pull/REPLACE_WITH_PR_NUMBER)
 
 <!-- Add each new contribution as a line above, in this format:
 - 🔀 **[org/repo](repo-link)** — PR merged: _short description_ → [#PR-number](pr-link)
